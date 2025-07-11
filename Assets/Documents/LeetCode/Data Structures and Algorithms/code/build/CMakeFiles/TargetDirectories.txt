@@ -1,3 +1,0 @@
-/Users/hadashinoyoujo/Documents/Data Structures and Algorithms/code/build/CMakeFiles/myApp.dir
-/Users/hadashinoyoujo/Documents/Data Structures and Algorithms/code/build/CMakeFiles/edit_cache.dir
-/Users/hadashinoyoujo/Documents/Data Structures and Algorithms/code/build/CMakeFiles/rebuild_cache.dir
